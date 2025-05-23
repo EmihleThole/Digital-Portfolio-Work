@@ -1,7 +1,7 @@
 # Emihle Thole - Digital Portfolio
 
 
-Welcome to my **Work Readiness Program**. This portfolio showcases my journey, reflections, and growth throughout my academic and personal development as an ICT student at CPUT.
+Welcome to my **Digital Portfolio**. This portfolio showcases my journey, reflections, and growth throughout my academic and personal development as an ICT student at CPUT.
 
 I’m a final-year Diploma in ICT student majoring in Application Development at the Cape Peninsula University of Technology, and I’ve also completed a Higher Certificate in ICT. My passion lies in creating efficient, user-friendly software solutions that solve real-world problems.
 
