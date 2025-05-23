@@ -97,7 +97,7 @@ I found that I have a social and enterprising personality. This complements role
  
  ![image](https://github.com/user-attachments/assets/cefba833-4f26-46e4-91c3-a09068917857)
 
- - [View My CV](Emihle_Thole_CV.pff)
+ - [View My CV]([Emihle_Thole_CV.pff](https://github.com/EmihleThole/Digital-Portfolio-Work/blob/main/CV%20Emihle%20Thole%20(2.pdf))
    
 <br />
 
@@ -146,8 +146,7 @@ I reviewed and refined my CV before uploading it through the correct platform. I
 I submitted a polished CV that presents me as a well-prepared graduate with hands-on experience and passion for technology.
 
 
-- 
-![Badge](https://img.shields.io/badge/My%20Evidence-blue)
+
 
 
 
