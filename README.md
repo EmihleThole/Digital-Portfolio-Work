@@ -7,24 +7,35 @@ I’m a final-year Diploma in ICT student majoring in Application Development at
 
 I have hands-on experience with Java, Python, SQL, HTML/CSS, and JavaScript. I’ve worked on several academic and personal projects, including mobile app designs using Figma, desktop applications with Java Swing, and database-driven systems. I’m also comfortable using tools like GitHub and applying Agile principles in team environments.
 
+ <h3 style="color : green"> Evidence </h3>
+<h5 style="color : green"> Figma Project </h5>
+ 
+![image](https://github.com/user-attachments/assets/3ba0a72c-335d-44ed-9a18-3a5467078c93)
+![image](https://github.com/user-attachments/assets/cf3d0f2c-223e-4348-81f2-4c161df09f10)
 
 <h3 style="color : green"> Career Counselling </h3>
+
 
 <code style="color : green">**Situation:**</code>
 At the beginning of my academic journey, I did not have a clear vision of my long-term career path.
 
-
 <code style="color : green">**Task:**</code>
 I needed to understand how to align my education and experiences with a fulfilling and sustainable career.
 
- 
  <code style="color : green">**Action:**</code>
 I engaged with career counselling tools and resources, attended guidance sessions, and explored various ICT roles.
-
 
 <code style="color : green">**Result:**</code>
 I gained clarity on possible career paths such as Software Engineering and UX/UI Design. These options align with my strengths in development, problem-solving, and creativity.
 
+
+ <h3 style="color : green"> Evidence </h3>
+<h5 style="color : green"> linkedIn </h5>
+
+ My linkedIn profile Linke:
+www.linkedin.com/in/emihle-thole-878012222
+ 
+![image](https://github.com/user-attachments/assets/062ad201-b42a-4ee2-b605-1fc0d9c679b2)
 
 
 <h3 style="color : green"> Skills And Interests </h3>
@@ -45,7 +56,11 @@ I realized I thrive in collaborative environments and enjoy coding and user inte
 
 
 
+ <h3 style="color : green"> Evidence </h3>
+ <h5 style="color : green"> Assessments </h5>
 
+
+ ![image](https://github.com/user-attachments/assets/48c83bd2-6b7b-47ed-9fab-8458990717a7)
 <h3 style="color : green"> Personality Assessment </h3>
 
 
@@ -63,7 +78,8 @@ Through assessments and team-based projects, I noticed that I naturally enjoy gr
 I found that I have a social and enterprising personality. This complements roles in UX/UI design and software development, where collaboration, creativity, and structured thinking are essential.
 
 
-
+ <h3 style="color : green"> Evidence </h3>
+ - [View My CV](Emihle_Thole_CV.pff)
 
  <h3 style="color : green"> Create A CV </h3>
  
@@ -83,7 +99,7 @@ I produced a CV that accurately reflects my technical abilities, teamwork skills
 
 
 
-
+ <h3 style="color : green"> Evidence </h3>
 
  <h3 style="color : green"> CV Submition </h3>
 
@@ -101,19 +117,9 @@ I reviewed and refined my CV before uploading it through the correct platform. I
 <code style="color : green">**Result:**</code>
 I submitted a polished CV that presents me as a well-prepared graduate with hands-on experience and passion for technology.
 
-- [View My CV](Emihle_Thole_CV.pff)
+
 - 
 ![Badge](https://img.shields.io/badge/My%20Evidence-blue)
-
-
-![image](https://github.com/user-attachments/assets/48c83bd2-6b7b-47ed-9fab-8458990717a7)
-
-
- <h3 style="color : green"> Figma Project </h3>
- 
-![image](https://github.com/user-attachments/assets/3ba0a72c-335d-44ed-9a18-3a5467078c93)
-![image](https://github.com/user-attachments/assets/cf3d0f2c-223e-4348-81f2-4c161df09f10)
-
 
 
 
