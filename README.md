@@ -70,7 +70,10 @@ I realized I thrive in collaborative environments and enjoy coding and user inte
 <br />
 
  <h3 style="color : green"> Evidence </h3>
- <h5 style="color : green"> Assessments </h5>
+ This is my lucidchart project
+ 
+ https://lucid.app/lucidchart/57b3d794-8652-4d82-a22e-f92fcf7d777d/edit?viewport_loc=-1759%2C-1057%2C1819%2C1233%2C0_0&invitationId=inv_2704d689-e9a0-4285-8d82-1efb704f7060
+ 
  <br />
 
 <h3 style="color : green"> REFLECTION </h3>
