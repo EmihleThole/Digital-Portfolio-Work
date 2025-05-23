@@ -6,15 +6,21 @@
 I’m a final-year Diploma in ICT student majoring in Application Development at the Cape Peninsula University of Technology, and I’ve also completed a Higher Certificate in ICT. My passion lies in creating efficient, user-friendly software solutions that solve real-world problems.
 
 I have hands-on experience with Java, Python, SQL, HTML/CSS, and JavaScript. I’ve worked on several academic and personal projects, including mobile app designs using Figma, desktop applications with Java Swing, and database-driven systems. I’m also comfortable using tools like GitHub and applying Agile principles in team environments.
+<br />
+<br />
+<h2>Career Counselling</h2>
+<br />
 
  <h3 style="color : green"> Evidence </h3>
 <h5 style="color : green"> Figma Project </h5>
- 
-![image](https://github.com/user-attachments/assets/3ba0a72c-335d-44ed-9a18-3a5467078c93)
-![image](https://github.com/user-attachments/assets/cf3d0f2c-223e-4348-81f2-4c161df09f10)
 
-<h3 style="color : green"> Career Counselling </h3>
+<br /> https://www.figma.com/proto/wL0FdUYDzaqjeKUSizzM2e/Untitled?node-id=0-1&t=GLrSWobAzTrSimU1-1
+https://www.figma.com/design/wL0FdUYDzaqjeKUSizzM2e/Untitled?node-id=0-1&m=dev&t=GLrSWobAzTrSimU1-1
+<br />
 
+
+<h3 style="color : green"> REFLECTION </h3>
+<br />
 
 <code style="color : green">**Situation:**</code>
 At the beginning of my academic journey, I did not have a clear vision of my long-term career path.
@@ -27,19 +33,23 @@ I engaged with career counselling tools and resources, attended guidance session
 
 <code style="color : green">**Result:**</code>
 I gained clarity on possible career paths such as Software Engineering and UX/UI Design. These options align with my strengths in development, problem-solving, and creativity.
+<br />
 
 
+<h2>Skills And Interests</h2>
+ <br />
+ 
  <h3 style="color : green"> Evidence </h3>
 <h5 style="color : green"> linkedIn </h5>
 
- My linkedIn profile Linke:
+ My linkedIn profile Linke for the skills that i have:
 www.linkedin.com/in/emihle-thole-878012222
- 
-![image](https://github.com/user-attachments/assets/062ad201-b42a-4ee2-b605-1fc0d9c679b2)
+ <br />
 
 
-<h3 style="color : green"> Skills And Interests </h3>
- 
+
+<h3 style="color : green"> REFLECTION </h3>
+ <br />
  
 
 <code style="color : green">**Situation:**</code>
@@ -53,16 +63,18 @@ I reflected on past experiences and personal projects. I worked on desktop apps 
 
 <code style="color : green">**Result:**</code>
 I realized I thrive in collaborative environments and enjoy coding and user interface design. I now focus on enhancing my skills in software development, while exploring UX/UI design as a career path.
+<br />
 
+<h2>Personality Assessment</h2>
 
+<br />
 
  <h3 style="color : green"> Evidence </h3>
  <h5 style="color : green"> Assessments </h5>
+ <br />
 
-
- ![image](https://github.com/user-attachments/assets/48c83bd2-6b7b-47ed-9fab-8458990717a7)
-<h3 style="color : green"> Personality Assessment </h3>
-
+<h3 style="color : green"> REFLECTION </h3>
+<br />
 
 
 <code style="color : green">**Situation:**</code>
@@ -76,13 +88,21 @@ Through assessments and team-based projects, I noticed that I naturally enjoy gr
 
 <code style="color : green">**Result:**</code>
 I found that I have a social and enterprising personality. This complements roles in UX/UI design and software development, where collaboration, creativity, and structured thinking are essential.
-
+<br />
+<br />
+<h2>Create A CV</h2>
+<br />
 
  <h3 style="color : green"> Evidence </h3>
- - [View My CV](Emihle_Thole_CV.pff)
-
- <h3 style="color : green"> Create A CV </h3>
  
+ ![image](https://github.com/user-attachments/assets/cefba833-4f26-46e4-91c3-a09068917857)
+
+ - [View My CV](Emihle_Thole_CV.pff)
+<br />
+
+ 
+ <h3 style="color : green"> REFLECTION </h3>
+ <br />
 
 
 <code style="color : green">**Situation:**</code>
@@ -96,13 +116,20 @@ I compiled my academic projects (like app development with Java Swing and Figma 
 
 <code style="color : green">**Result:**</code>
 I produced a CV that accurately reflects my technical abilities, teamwork skills, and readiness for the software industry.
+<br />
+<br />
+
+<h2>CV Submition</h2>
+
+<br />
+<h3 style="color : green"> Evidence </h3>
+
+![image](https://github.com/user-attachments/assets/b75700b6-b86b-4f9b-9daf-74e688df8396)
+<br />
 
 
-
- <h3 style="color : green"> Evidence </h3>
-
- <h3 style="color : green"> CV Submition </h3>
-
+ <h3 style="color : green"> REFLECTION </h3>
+<br />
 
  
 <code style="color : green">**Situation:**</code>
