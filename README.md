@@ -98,6 +98,7 @@ I found that I have a social and enterprising personality. This complements role
  ![image](https://github.com/user-attachments/assets/cefba833-4f26-46e4-91c3-a09068917857)
 
  - [View My CV](Emihle_Thole_CV.pff)
+   
 <br />
 
  
