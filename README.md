@@ -102,14 +102,22 @@ I reviewed and refined my CV before uploading it through the correct platform. I
 I submitted a polished CV that presents me as a well-prepared graduate with hands-on experience and passion for technology.
 
 - [View My CV](Emihle_Thole_CV.pff)
+- 
+![Badge](https://img.shields.io/badge/My%20Evidence-blue)
+
+
+![image](https://github.com/user-attachments/assets/48c83bd2-6b7b-47ed-9fab-8458990717a7)
+
+
+ <h3 style="color : green"> Figma Project </h3>
+ 
+![image](https://github.com/user-attachments/assets/3ba0a72c-335d-44ed-9a18-3a5467078c93)
+![image](https://github.com/user-attachments/assets/cf3d0f2c-223e-4348-81f2-4c161df09f10)
 
 
 
 
 
-![Badge](https://img.shields.io/badge/Role-Software%20Developer-blue)
-
-![Badge](https://img.shields.io/badge/Enthusiast-brightgreen)
 
 
 
